@@ -81,7 +81,7 @@ The tool does not automatically force **Netwrix Auditor** to appear first. It is
 # How to use it
 
 The product is installed through a simple msi**.**
-**link to download : **[`**https://nwxcorp-my.sharepoint.com/:u:/r/personal/karim_azzouzi_netwrix_com/Documents/Netwrix%20AD%20SecurityAI%20Advisor/NetwrixADSecurityAIAdvisor.zip?csf=1&web=1&e=F7YFFX**`](https://nwxcorp-my.sharepoint.com/:u:/r/personal/karim_azzouzi_netwrix_com/Documents/Netwrix%20AD%20SecurityAI%20Advisor/NetwrixADSecurityAIAdvisor.zip?csf=1&web=1&e=F7YFFX)
+link to download :  XXXX
 
 ### Windows services
 
